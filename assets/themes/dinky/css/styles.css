@@ -235,12 +235,12 @@ h1.header {
 }
 
 
-h1.header, a.header, a.name, header a{
+h1.header, h4.header, a.header, a.name, header a{
 	color: #fff;
 }
 
 a.header {
-	text-decoration: underline;
+/*	text-decoration: underline;*/
 }
 
 a.name {
@@ -317,7 +317,7 @@ section {
 /* Footer */
 
 footer {
-  width:170px;
+  width:250px;
   float:left;
   position:fixed;
   bottom:10px;
