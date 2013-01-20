@@ -1,9 +1,8 @@
 <div class="page-header">
-  <h1>{{ page.title }} <small>Supporting tagline</small></h1>
+  <h1><a href="{{ page.url }}" rel="bookmark" title="Permanent link to ">{{ page.title }}</a></h1>
 </div>
 
-<div class="row">
-  <div class="span8">
+<div class="main-text">
     {{ content }}
     <hr>
     <div class="pagination">
@@ -23,9 +22,8 @@
     </div>
     <hr>
     {% include JB/comments %}
-  </div>
   
-  <div class="span4">
+
     <h4>Published</h4>
     <div class="date"><span>{{ page.date | date_to_long_string }}</span></div>
 
@@ -36,5 +34,5 @@
     {% include JB/tags_list %}
     </ul>
   {% endunless %}  
-  </div>
+
 </div>

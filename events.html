@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "News"
+title: "Events"
 description: ""
 group: navigation
 ---
@@ -13,9 +13,9 @@ group: navigation
     <h2>
         <a href="{{ post.url }}" rel="bookmark" title="Permanent link to ">{{ post.title }}</a>
     </h2>
-    <h5><time>{{ post.date | date: '%B' }} {{ post.date | date: '%e' }}, {{ post.date | date: '%Y' }}</time></h5>
   
   {{ post.content }}
+<h5 style="text-align: right;">Published: <time>{{ post.date | date: '%B' }} {{ post.date | date: '%e' }}, {{ post.date | date: '%Y' }}</time></h5>
 </article>
 {% endfor %}
 
