@@ -2,7 +2,7 @@
 layout: post
 title: "IEEE MTT-S Distinguished Lecturer: <br> Prof. Dominique Schreurs"
 description: ""
-category: Lecturer Series
+category:
 tags: []
 ---
 {% include JB/setup %}

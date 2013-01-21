@@ -1,8 +1,4 @@
 
-
-
-
-
 /* Base text styles */
 
 body {
@@ -138,7 +134,7 @@ table {
  }
 
 th {
-  font-family: 'Arvo', Helvetica, Arial, sans-serif;
+  font-family:  Helvetica, Arial, sans-serif;
 	font-size: 18px;
 	font-weight: normal;
   padding: 10px;
