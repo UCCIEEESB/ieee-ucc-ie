@@ -27,9 +27,9 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-base_url: /sb
-url: http://ieee.ucc.ie/sb
-production_url : http://ieee.ucc.ie/sb/
+
+url: http://ieee.ucc.ie
+production_url : http://ieee.ucc.ie
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
