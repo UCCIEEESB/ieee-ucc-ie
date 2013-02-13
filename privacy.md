@@ -8,7 +8,7 @@ This statement relates to University College Cork University College Cork IEEE S
 
 General statement
 
-University College Cork IEEE Student Branch fully respects your right to privacy and actively seeks to preserve the privacy rights of those who share information with the Student Branch. The Student Branch will not collect any personal information about you on this website without your permission save in cases where the Student Branch is required by law to do so (e.g. the investigation of a criminal offence or a breach of the University's policies, procedures or guidelines). Any personal information which you volunteer to the University will be treated with the highest standards of security and confidentiality, in accordance with the Data Protection Act 1988 and Data Protection (Amendment) Act 2003. The Student Branch's Data Privacy Policy which documents the Student Branch's application of the Data Protection Principles and the manner in which data is processed organisation-wide is available at http://ieee.ucc.ie/dataprotection.html
+University College Cork IEEE Student Branch fully respects your right to privacy and actively seeks to preserve the privacy rights of those who share information with the Student Branch. The Student Branch will not collect any personal information about you on this website without your permission save in cases where the Student Branch is required by law to do so (e.g. the investigation of a criminal offence or a breach of the University's policies, procedures or guidelines). Any personal information which you volunteer to the University will be treated with the highest standards of security and confidentiality, in accordance with the Data Protection Act 1988 and Data Protection (Amendment) Act 2003. The Student Branch's Data Privacy Policy which documents the Student Branch's application of the Data Protection Principles and the manner in which data is processed organisation-wide is available at [http://ieee.ucc.ie/dataprotection.html](http://ieee.ucc.ie/dataprotection.html)
 
 Collection and use of personal information
 
@@ -20,7 +20,7 @@ This website uses Google Analytics to collect anonymous traffic data to the webs
 
 We will never (nor will we enable Third Parties to) use this analytics tool to track or collect any Personally Identifiable Data of visitors to the University College Cork IEEE Student Branch site. This data is completely anonymous. Users may also disable cookies from their web browser with no loss of functionality.
 
-For further information on the privacy of Google Analytics data please visit http://www.google.com/analytics/learn/privacy.html
+For further information on the privacy of Google Analytics data please visit [http://www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html)
 
 Technical details in connection with visits to this website may be logged by the University College Cork IEEE Student Branch's internet service provider for accounting and auditing purposes.
 
@@ -30,6 +30,6 @@ This statement explains the Internet Privacy policy that the Student Branch has 
 
 Queries or complaints in relation to Data Privacy / Data Protection should be referred to:
 
-ieee@umail.ucc.ie
+[ieee@umail.ucc.ie](mailto:ieee@umail.ucc.ie)
 
 

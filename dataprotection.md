@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Privacy Policy
+title: Data Protection
 description: ""
 ---
 
@@ -46,6 +46,6 @@ This policy shall be reviewed on a regular basis as deemed necessary.
 
 QUERIES:
 
-All queries in relation to this policy and its provision shall be made to the UCC IEEE Student Branch at: ieee@umail.ucc.ie
+All queries in relation to this policy and its provision shall be made to the UCC IEEE Student Branch at: [ieee@umail.ucc.ie](mailto:ieee@umail.ucc.ie)
 
 
