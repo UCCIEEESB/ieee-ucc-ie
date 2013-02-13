@@ -32,24 +32,24 @@
     <div class="container">
       <div class="span3" >
         <header>
-          <h1 class="header"><a href="/sb.html">{{ site.title }}</a></h1>
+          <h1 class="header"><a href="/">{{ site.title }}</a></h1>
           <p class="header">{{ site.tagline }}</p>
           <ul>
-            {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
+            {% assign pages_list = site.pages %}
             {% include JB/pages_list %}
           </ul>
           {% if site.author %}
           <div class="misc vcard">
           <ul>
             {% if site.author.email %}
-            <li class="contact"><address><span class="fn email"><a href="mailto:ieee@umail.ucc.ie">ieee@umail.ucc.ie</a></span></address></li>
+            <li onclick="location.href='mailto:ieee@umail.ucc.ie';" class="contact"><address><span class="fn email"><a href="mailto:ieee@umail.ucc.ie">ieee@umail.ucc.ie</a></span></address></li>
             {% endif %}
             {% if site.author.github %}
-            <li class="github"><a href="http://github.com/{{ site.author.github }}/" rel="me">github.com/{{ site.author.github }}</a></li>
+            <li onclick="location.href='http://github.com/{{ site.author.github }}/';" class="github"><a href="http://github.com/{{ site.author.github }}/" rel="me">github.com/{{ site.author.github }}</a></li>
             {% endif %}
             {% if site.author.twitter %}
-            <li class="twitter"><a href="http://twitter.com/{{ site.author.twitter }}/" rel="me">twitter.com/{{ site.author.twitter }}</a></li>
+            <li onclick="location.href='http://twitter.com/{{ site.author.twitter }}/';" class="twitter"><a href="http://twitter.com/{{ site.author.twitter }}/" rel="me">twitter.com/{{ site.author.twitter }}</a></li>
             {% endif %}
             {% if site.author.facebook %}
             <li class="facebook"><a href="http://facebook.com/{{ site.author.facebook }}/" rel="me">facebook.com/{{ site.author.facebook }}</a></li>
@@ -68,7 +68,7 @@
             {% endif %}
         </header>
       </div>
-      <div class="span10">
+      <div class="span10 main_content">
         <section>
           {{ content }}
         </section>
@@ -81,7 +81,12 @@
           <a href="http://www.ucc.ie/en/eleceng/"><img  width="75px" src="images/logos/EEE-LOGO2.jpg" style="padding-left:50px; padding-right:50px;"  alt="UCC Department of Electrical and Electronic Engineering"></img></a>
           <a  href="http://www.ieee.org/"><img  width="200px" src="images/logos/ieee_mb_blue_eee.jpg" alt="Institute for Electrical and Electronic Engineers"></img></a>
         </div>
-        <p><small>&copy; UCC IEEE Student Branch</small></p>
+        <p><small><a href="privacy.html">Privacy Policy </a> | <a href="dataprotection.html">Data Protection</a> | <a href="http://www.ucc.ie/aup">Acceptable Use Policy</a> | <a href="mailto:ieee@umail.ucc.ie">ieee@umail.ucc.ie</a></small></p>
+        <p><small>Copyright &copy; <script language="javascript">
+var curdate = new Date()
+var year = curdate.getFullYear()
+document.write(year)
+</script> UCC IEEE Student Branch</small></p>
       </footer>
     </div>
   </div>
