@@ -227,11 +227,11 @@ header li {
   background: -ms-linear-gradient(top, #006699 0%,#08C 100%);
   background: linear-gradient(top, #006699 0%,#08C 100%);
   
-	border-radius:4px;
+  border-radius:4px;
   border:1px solid #0D0D0D;
 
- -webkit-box-shadow: inset 0px 1px 1px 0 rgba(38,2,233, 1);
-  box-shadow: inset 0px 1px 1px 0 rgba(38,2,233, 1);
+ -webkit-box-shadow: inset 0px 1px 1px 0 rgba(38,2,150, 1);
+  box-shadow: inset 0px 1px 1px 0 rgba(38,2,150, 1);
 
 }
 
