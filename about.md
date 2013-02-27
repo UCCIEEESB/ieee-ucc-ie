@@ -2,7 +2,6 @@
 layout: page_banner
 title: About
 description: ""
-group: navigation
 ---
 
 

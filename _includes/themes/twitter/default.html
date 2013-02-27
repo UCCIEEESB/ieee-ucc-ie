@@ -35,6 +35,11 @@
           <h1 class="header"><a href="/">{{ site.title }}</a></h1>
           <p class="header">{{ site.tagline }}</p>
           <ul>
+            <li><a href="/about.html">About</a></li>
+            <li><a href="/events.html">Events</a></li>
+            <li><a href="/pages.html">Pages</a></li>
+          </ul>
+          <ul>
             {% assign group = 'navigation' %}
             {% assign pages_list = site.pages %}
             {% include JB/pages_list %}
