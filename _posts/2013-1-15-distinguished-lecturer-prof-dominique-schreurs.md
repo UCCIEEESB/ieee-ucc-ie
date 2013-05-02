@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "IEEE MTT-S Distinguished Lecturer: <br> Prof. Dominique Schreurs"
-description: ""
+description: "Towards Greener Smartphones with Microwave Measurements. 31th January 2013"
 category: events
-tags: []
+tags: [lecture]
 ---
 {% include JB/setup %}
 
