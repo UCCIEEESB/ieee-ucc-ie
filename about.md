@@ -12,9 +12,13 @@ The University College Cork IEEE Student Branch was founded in 2011 and is dedic
 
 Chairperson: Kilian O'Donoghue
 
-Secretary: Cian Cassidy
+Secretary: Tadhg Lambe
 
-Treasurer: Philip Marraccini 
+Treasurer: Matthew O'Donovan
+
+OCM: Alexander Jaeger
+
+OCM: David McCarthy 
 
 
 
