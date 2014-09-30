@@ -30,6 +30,6 @@ This statement explains the Internet Privacy policy that the Student Branch has 
 
 Queries or complaints in relation to Data Privacy / Data Protection should be referred to:
 
-[ieee@umail.ucc.ie](mailto:ieee@umail.ucc.ie)
+[ieeesb@ue.ucc.ie](mailto:ieeesb@ue.ucc.ie)
 
 

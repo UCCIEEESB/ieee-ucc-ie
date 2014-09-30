@@ -22,6 +22,6 @@ tags: [lecture]
 
 Directions: [http://www.ucc.ie/virtualtour/](http://www.ucc.ie/virtualtour/)
 
-Admission to the event is free but the number of places are limited. Please register in advance by emailing: **[ieee@umail.ucc.ie](mailto:ieee@umail.ucc.ie)**
+Admission to the event is free but the number of places are limited. Please register in advance by emailing: **[ieeesb@ue.ucc.ie](mailto:ieeesb@ue.ucc.ie)**
 
 
